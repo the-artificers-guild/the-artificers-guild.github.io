@@ -1,15 +1,15 @@
 # Site settings
 title: 'Demo for jekyll-remote-theme with theme jekyll-uno'
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll - used via jekyll-remote-theme'
-url: ''
-baseurl: '/'
+url: 'the-artificers-guild.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 remote_theme: matthiaslischka/jekyll-uno
 
 author:
-  name: 'Matthias Lischka'
+  name: 'Samedi'
   #email: 
   #twitter_username: 
   #facebook_username: 
